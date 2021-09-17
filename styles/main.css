@@ -1,0 +1,35 @@
+img{
+    height: 400px;
+    width: 400px;
+    opacity: 100%;
+}
+
+body{
+  
+    background-image: url("/fon.png");
+    background-size: 850px;
+    background-repeat: repeat;
+   
+    
+} 
+
+.main{
+    
+}
+    
+
+
+div img{
+    margin-left: 37%;
+}
+
+
+div p {
+    font-family: 'Gluten', cursive;
+    font-size: 43px;
+    font-weight: 700;
+    color: #333333;
+    text-align: center;
+}
+
+
