@@ -1,6 +1,6 @@
 img{
-    height: 400px;
-    width: 400px;
+    height: 300px;
+    width: 300px;
     opacity: 100%;
 }
 
@@ -20,13 +20,13 @@ body{
 
 
 div img{
-    margin-left: 37%;
+    margin-left: 36%;
 }
 
 
 div p {
     font-family: 'Gluten', cursive;
-    font-size: 43px;
+    font-size: 30px;
     font-weight: 700;
     color: #333333;
     text-align: center;
